@@ -1,10 +1,10 @@
 
 # 🧪 Relatório de Testes - Synth Flashcards
 
-**Analista de QA:** [Seu Nome]  
-**Data:** [Inserir data do teste]  
+**Analista de QA:** Yasmin 
+**Data:** 22/04/2025
 **Ambiente Testado:** Produção (Web)  
-**Versão:** [Inserir versão da aplicação, se aplicável]
+**Versão:** Desktop
 
 ---
 

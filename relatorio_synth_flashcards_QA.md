@@ -1,10 +1,10 @@
 
 # 🧪 Relatório de Testes - Synth Flashcards
 
-**Analista de QA:** Yasmin 
-**Data:** 22/04/2025
-**Ambiente Testado:** Produção (Web)  
-**Versão:** Desktop
+**Analista de QA: **Yasmin**
+**Data:**22/04/2025**
+**Ambiente Testado:** Produção (Web)**  
+**Versão:** Desktop**
 
 ---
 
